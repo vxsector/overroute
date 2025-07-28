@@ -56,7 +56,7 @@ OverRoute v1 uses DNS blocking and route spoofing to prevent:
 
 on iPad Safari:
 ```url
-https://bit.ly/OverRoute
+https://bit.ly/overroute
 ```
 
 Install it → blocks MDM routing.
